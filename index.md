@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Herramientas de productividad
+## Cursos propedeuticos Maestria ciencia de datos- Universidad de Sonora
 
-You can use the [editor on GitHub](https://github.com/LauraDi/-LauraDi-herramientas-Produccion-MCD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Repositorio que tiene como propósito de analizar datos de la dirección general de epidemiología pertenecientes al México.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Objetivo:
+Graficar que dias del año 2020 tienen el mayor numero de ingresos a hospitales
 
-### Markdown
+Pasos:
+1. Clonar nuestro repositorio
+~~~
+    git clone https://github.com/LauraDi/MCD-Final.git
+~~~
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Generamos la imagen de un dockerfile y contruimos un contenedor
+~~~
+    docker build -t mcd-covid .
+    docker run -it --name Contenedorcovid mcd-covid
+~~~
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LauraDi/-LauraDi-herramientas-Produccion-MCD/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### **Resultados:** 
+#### Despues de analizar los datos, se obtuvo que los dias 28,29,30 de Diciembre del año 2020 fueron los dias con mas registros de ingreso a hospitales, donde el mayor numero de ingresos fue de mas de 42,000 personas.
