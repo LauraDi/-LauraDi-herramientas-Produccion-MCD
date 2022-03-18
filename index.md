@@ -1,7 +1,7 @@
 # Herramientas de productividad
-## Cursos propedeuticos Maestria ciencia de datos- Universidad de Sonora
+## Cursos propedeuticos para la maestria en ciencia de datos- Universidad de Sonora
 
-#### Repositorio que tiene como propósito de analizar datos de la dirección general de epidemiología pertenecientes al México.
+#### Repositorio que tiene como propósito de analizar datos de la dirección general de epidemiología pertenecientes a México.
 
 Objetivo:
 Graficar que dias del año 2020 tienen el mayor numero de ingresos a hospitales
