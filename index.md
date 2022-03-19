@@ -1,8 +1,8 @@
 # Herramientas de productividad
-## Cursos propedeuticos para la maestria en ciencia de datos- Universidad de Sonora
+## Cursos propedéuticos para la maestría en ciencia de datos- Universidad de Sonora
 
 **Objetivo:**
-Analizar datos de la dirección general de epidemiología pertenecientes a México y conocer que dias del año 2020 tienen el mayor numero de ingresos a hospitales.
+Analizar datos de la dirección general de epidemiología pertenecientes a México y conocer que días del año 2020 tienen el mayor número de ingresos a hospitales.
 
 **Datos utilizados:**
 [COVID-19](https://www.gob.mx/salud/documentos/datos-abiertos-bases-historicas-direccion-general-de-epidemiologia)
@@ -20,6 +20,6 @@ Pasos:
 ~~~
 
 ### **Resultados:** 
-#### Despues de analizar los datos, se obtuvo que los dias 28,29,30 de Diciembre del año 2020 fueron los dias con mas registros de ingreso a hospitales, donde el mayor numero de ingresos fue de mas de 42,000 personas.
+#### Despues de analizar los datos, se obtuvo que 28,29,30 de Diciembre del año 2020 fueron los días con mas registros de ingreso a hospitales, donde el mayor número de ingresos fue de mas de 42,000 personas.
 
 <img src="grafica.jpg">
