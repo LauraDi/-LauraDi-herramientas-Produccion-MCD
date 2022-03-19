@@ -1,10 +1,8 @@
 # Herramientas de productividad
 ## Cursos propedeuticos para la maestria en ciencia de datos- Universidad de Sonora
 
-#### Repositorio que tiene como propósito de analizar datos de la dirección general de epidemiología pertenecientes a México.
-
 **Objetivo:**
-Graficar que dias del año 2020 tienen el mayor numero de ingresos a hospitales
+Analizar datos de la dirección general de epidemiología pertenecientes a México y conocer que dias del año 2020 tienen el mayor numero de ingresos a hospitales.
 
 **Datos utilizados:**
 [COVID-19](https://www.gob.mx/salud/documentos/datos-abiertos-bases-historicas-direccion-general-de-epidemiologia)
